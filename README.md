@@ -6,7 +6,9 @@
 * テキストチャット
 * RPC通信
 
-# Demo
+# [Demo](https://ayutaz.github.io/PhotonFusionTest/WebGL/WebGL/)
+
+上のリンクから WebGLでのDemoPageに移動してください
 
 # requirements
 
